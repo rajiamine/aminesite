@@ -50,6 +50,9 @@ ul.navbar-nav.ms-auto li:last-child a {
     color: #3ba5e7 !important;
 }
 
+.link-btn span {
+    display: inline;
+}
 
 
 /* Gradient transparent - color - transparent */
